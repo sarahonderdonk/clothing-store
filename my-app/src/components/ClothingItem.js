@@ -1,5 +1,6 @@
 import React from "react";
 
+//defines an clothing item object
 const ClothingItem = ({ item, addToCart }) => {
     return (
       <div className="clothing-item">
